@@ -1,10 +1,10 @@
-# 🍕 Pizza Place Sales Analysis
+🍕 Pizza Place Sales Analysis
 
 A data analysis project exploring a full year of sales data from a fictitious pizza restaurant. The goal is to uncover business insights around revenue, customer behaviour, peak times, and product performance.
 
 ---
 
-## 📁 Project Files
+ 📁 Project Files
 
 | File | Description |
 |------|-------------|
@@ -16,7 +16,7 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## ❓ Questions Answered
+❓ Questions Answered
 
 1. What is the total revenue/sales?
 2. What is the total quantity of pizzas sold?
@@ -31,7 +31,7 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## 📊 Visuals Included
+📊 Visuals Included
 
 - **Bar Chart** — Top 5 Best Selling Pizzas
 - **Line Chart** — Peak Hours of Orders
@@ -41,9 +41,9 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 - **Horizontal Bar Chart** — Bottom 5 Worst Selling Pizzas
 - **Bar Chart** — Pizza Size Popularity
 
----
 
-## 🔍 Key Findings
+
+ 🔍 Key Findings
 
 - **Total Revenue:** $817,860.05
 - **Total Orders:** 21,350
@@ -57,7 +57,7 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## 🛠️ Tools & Libraries Used
+ 🛠️ Tools & Libraries Used
 
 - **Python 3**
 - **Pandas** — data loading and manipulation
@@ -67,7 +67,7 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## ▶️ How to Run
+ ▶️ How to Run
 
 1. Clone or download this repository
 2. Make sure you have Python installed
@@ -82,7 +82,7 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## 💡 Recommendations
+ 💡 Recommendations
 
 - **Staff more on Fridays** — it is consistently the busiest day
 - **Run promotions in October and February** — the two slowest months
@@ -92,6 +92,6 @@ A data analysis project exploring a full year of sales data from a fictitious pi
 
 ---
 
-## 👤 Author
+👤 Author
 
-Data Science Student — Task 3 Submission
+Oyeyode David Oluwadamilare — Task 3 Submission
